@@ -1,8 +1,6 @@
 def starts_with_a_vowel?(word)
 
 end
-end
-end
 
 def words_starting_with_un_and_ending_with_ing(text)
 
@@ -19,3 +17,4 @@ end
 def valid_phone_number?(phone)
 
 end
+end end
